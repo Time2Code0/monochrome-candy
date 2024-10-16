@@ -1,0 +1,27 @@
+{
+  "name": "monochrome-candy",
+  "displayName": "Monochrome Candy",
+  "publisher": "time2code",
+  "description": "Monochrome and candy flavored dark theme for VSCode.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/time2code0/monochrome-candy"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monochrome Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      }
+    ]
+  }
+}
