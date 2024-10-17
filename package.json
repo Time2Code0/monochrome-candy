@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/time2code0/monochrome-candy"
   },
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
