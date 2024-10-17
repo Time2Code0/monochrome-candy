@@ -1,6 +1,4 @@
-<!-- TODO: Create Preview and replace image -->
-
-![Monochrome Candy Preview](https://cdn.rauno.me/vesper-og.png)
+![Monochrome Candy Preview](https://github.com/Time2Code0/monochrome-candy/blob/main/preview.png?raw=true)
 
 # Monochrome Candy
 
